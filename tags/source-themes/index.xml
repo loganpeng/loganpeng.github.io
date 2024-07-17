@@ -7,10 +7,22 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://loganpeng.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections</title>
+      <link>https://loganpeng.github.io/publication/iros2024/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://loganpeng.github.io/publication/iros2024/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Chance-Aware Lane Change with High-Level Model Predictive Control Through Curriculum Reinforcement Learning</title>
